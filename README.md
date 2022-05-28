@@ -24,6 +24,10 @@ Portfolio management is important because it covers a certain amount of risk thr
 
 
 # FinRL Library
+
+• Open-source 
+• Provides development Pipe-line for trading strategy.
+
 # Documentation of FinRL library.
 below is the link:
 
@@ -42,3 +46,16 @@ still actively updating the FinRL repository, please install the unstable develo
 
 
 pip install git+https://github.com/AI4Finance-Foundation/FinRL.git
+
+# Designing DRL i.e Deep Reinforcement Learning trading strategy includes:
+ • Pre-processing market data 
+ • Building a training. environment
+ • Managing trading state
+ • backtesting trading performance
+ 
+ # Learning Algorithms :
+   1] DDQN 
+   2] PPO 
+   3] DDPG 
+   4] A2C 
+   
