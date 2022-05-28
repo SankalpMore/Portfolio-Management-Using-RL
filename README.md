@@ -86,20 +86,21 @@ Numerous hyperparameters – e.g. the learning rate, the total number of samples
  > FinRL Library
 
 • Open-source 
+
 • Provides development Pipe-line for trading strategy.
+
+>Installation of FinRL Library
+
+Since AI4finance community is still actively updating the FinRL repository, please install the unstable development version of FinRL using pip:
+
+pip install git+https://github.com/AI4Finance-Foundation/FinRL.git
+
 
 # Documentation of FinRL library.
 below is the link:
 
 https://finrl.readthedocs.io/en/latest/
 
->Installation of FinRL Library
-
-Since AI4finance community is  
-still actively updating the FinRL repository, please install the unstable development version of FinRL using pip:
-
-
-pip install git+https://github.com/AI4Finance-Foundation/FinRL.git
 
 
 
