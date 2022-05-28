@@ -49,13 +49,19 @@ pip install git+https://github.com/AI4Finance-Foundation/FinRL.git
 
 # Designing DRL i.e Deep Reinforcement Learning trading strategy includes:
  • Pre-processing market data 
- • Building a training. environment
- • Managing trading state
+ 
+ • Building a training. environment 
+ 
+ • Managing trading state 
+ 
  • backtesting trading performance
  
  # Learning Algorithms :
    1] DDQN 
+   
    2] PPO 
+   
    3] DDPG 
+   
    4] A2C 
    
