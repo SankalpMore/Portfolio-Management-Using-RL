@@ -37,7 +37,7 @@ Reinforcement learning (RL) trains an agent to solve tasks by trial and error, w
  
  Data preprocessing is a crucial step for training a high quality machine learning model. We need to check for missing data and do feature engineering in order to convert the data into a model-ready state.
 
-Add technical indicators. In practical trading, various information needs to be taken into account, for example the historical stock prices, current holding shares, technical indicators, etc. In this article, we demonstrate two trend-following technical indicators: MACD and RSI.
+Add technical indicators. In practical trading, various information needs to be taken into account, for example the historical stock prices, current holding shares, technical indicators, etc. In this article, we demonstrate two trend-following technical indicators: MACD and RSI(*The basic idea behind the RSI is to measure how quickly traders are bidding the price of the security up or down).
 Add turbulence index. Risk-aversion reflects whether an investor will choose to preserve the capital. It also influences one's trading strategy when facing different market volatility level. To control the risk in a worst-case scenario, such as financial crisis of 2007–2008, FinRL employs the financial turbulence index that measures extreme asset price fluctuation.
  
  • Building a training. environment 
@@ -100,6 +100,8 @@ pip install git+https://github.com/AI4Finance-Foundation/FinRL.git
 below is the link:
 
 https://finrl.readthedocs.io/en/latest/
+
+# Conclusion:
 
 
 
